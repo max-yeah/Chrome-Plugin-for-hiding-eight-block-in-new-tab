@@ -9,9 +9,10 @@ BTW:
 
 I could not put it in Chrome Store because Google will make it die.
 
-no matter what this project will die
+no matter how long this project will last
 
-star please :)
+If you use it, star please :)
+
 
 
 
