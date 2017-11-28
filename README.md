@@ -7,7 +7,7 @@ This one looks much better.
 
 BTW:
 
-I could not put it in Chrome Store because Google will make it die.
+I could not put it in Chrome Store because Google will make it disappeared.
 
 no matter how long this project will last
 
