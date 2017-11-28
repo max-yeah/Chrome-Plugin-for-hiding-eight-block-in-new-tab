@@ -17,9 +17,13 @@ I could not agree with the UI design in new tab, especially the eight blocks. We
 
 You could customize them in "Option".
 
+![image](https://github.com/max-yeah/Chrome-Plugin-for-hiding-eight-block-in-new-tab/blob/master/optional.png)
 
 
-# Installation
+
+
+
+# Installation in Chrome
 
 1. Open the extension page in preference.
 2. Click the "developer mode".
