@@ -4,6 +4,11 @@ I could not agree with the UI design in new tab, especially the eight blocks. We
 This one looks much better.
 ![image](https://github.com/max-yeah/Chrome-Plugin-for-hiding-eight-block-in-new-tab/blob/master/new%20tab%20page.PNG)
 
+BTW:
+I could not put it in Chrome Store because Google will make it die.
+no matter what this project will die
+star please :)
+
 
 # Description
 
@@ -33,6 +38,7 @@ You could customize them in "Option".
 2. Click the "developer mode".
 3. Drag the whole folder into the page.
 4. Done!
+
 
 
 
