@@ -1,13 +1,18 @@
 # Chrome-Plugin-for-hiding-eight-blocks-in-new-tab
 I could not agree with the UI design in new tab, especially the eight blocks. We have to figure out some methods to solve it. Never bear it.
 
+
 This one looks much better.
 ![image](https://github.com/max-yeah/Chrome-Plugin-for-hiding-eight-block-in-new-tab/blob/master/new%20tab%20page.PNG)
 
 BTW:
+
 I could not put it in Chrome Store because Google will make it die.
+
 no matter what this project will die
+
 star please :)
+
 
 
 # Description
