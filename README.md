@@ -1,2 +1,49 @@
 # Chrome-Plugin-for-hiding-eight-block-in-new-tab
-I could not agree with the UI design in new tab, especially the eight blocks. We have to figure out some methods to solve it. We are programmer. Never bear it.
+I could not agree with the UI design in new tab, especially the eight blocks. We have to figure out some methods to solve it. Never bear it.
+
+
+
+# Description
+
+<u>This plugin could hide:</u>
+
+1. navigation bar
+
+2. search bar
+
+3. Google logo
+
+4. 8 blocks
+
+You could customize them in "Option".
+
+
+
+# Installation
+
+1. Open the extension page in preference.
+2. Click the "developer mode".
+3. Drag the whole folder into the page.
+4. Done!
+
+
+
+# Statement
+
+1. Chrome Version required
+
+   This plugin could not work in the latest chrome version. After my tests, It could perfectly work in Chrome 56. You can download the version 56 chrome in the link below and disable the chrome auto-update (Search it in google! I'm sure is easy. ).
+
+2. The codes of this plugin is not fully original. I adopt them from two resources:
+
+   - Hide the Most Visited pages in Chrome's New Tab page - (HMVPNT)
+
+     https://github.com/claudiosanches/chrome-hide-most-visited
+
+   - Hide Most Visited Pages Reloaded (3.1.1 version) - (HMVPR)
+
+     https://github.com/superevilmegaco/Hide-Most-Visited-Pages-Reloaded
+
+   Thanks to their wisdom! 
+
+   The HMVPR plugin works quite well in the 3.1.1 version but it will auto update to 6.0.0 version which works worse; the HMVPNT plugin only has limited function but will not have annoying update. Thus, I want a plugin which has the former 3.1.1 version plugin's function and NO AUTO UPDATE!!!
