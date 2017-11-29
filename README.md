@@ -52,7 +52,7 @@ You could customize them in "Option".
 
 1. Chrome Version required
 
-   This plugin could not work in the latest chrome version. After my tests, It could perfectly work in Chrome 56. You can download the version 56 chrome in the link below and disable the chrome auto-update (Search it in google! I'm sure is easy. ).
+   This plugin could not work in the latest chrome version. After my tests, It could perfectly work in Chrome 56. You can download the version 56 chrome in the link below and disable the chrome auto-update (Search it in google! I'm sure it's easy. ).
    + [Mac](http://google-chrome.en.uptodown.com/mac/old)
    + [Windows 64 bit](https://github.com/max-yeah/Chrome-Plugin-for-hiding-eight-block-in-new-tab/releases/download/v1.0/Chrome.56.-64.bit.Windows.rar)
    + [Linux-support Ubuntu & Debian](https://github.com/max-yeah/Chrome-Plugin-for-hiding-eight-block-in-new-tab/releases/download/v1.0/Chrome.56.-linux.support.Debian.Ubuntu.rar)
