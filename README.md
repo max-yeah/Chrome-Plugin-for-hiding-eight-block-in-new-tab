@@ -5,14 +5,6 @@ I could not agree with the UI design in new tab, especially the eight blocks. We
 This one looks much better.
 ![image](https://github.com/max-yeah/Chrome-Plugin-for-hiding-eight-block-in-new-tab/blob/master/new%20tab%20page.PNG)
 
-BTW:
-
-I could not put it in Chrome Store because Google will make it disappeared.
-
-no matter how long this project will last
-
-If you use it, star please :)
-
 
 
 
